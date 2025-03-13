@@ -75,6 +75,8 @@ all:
 </p>
 </details>
 
+<br>
+
 <details><summary><b>Quy tắc (Rules)</b></summary>
 <p>
 
