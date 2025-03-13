@@ -1,4 +1,4 @@
-<details><summary><b>Biến</b></summary>
+<details><summary><b>Giới thiệu về Makefile</b></summary>
 <p>
 
 - **Makefile** là một tệp văn bản chứa tập hợp các quy tắc (rules) để tự động hóa quá trình biên dịch và xây dựng chương trình. Nó giúp lập trình viên dễ dàng quản lý việc biên dịch các chương trình lớn có nhiều tệp nguồn mà không cần phải nhập lệnh ``` gcc ``` hoặc ``` g++ ``` thủ công mỗi lần.
