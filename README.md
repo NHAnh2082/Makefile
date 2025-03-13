@@ -173,7 +173,7 @@ $(SOURCE_DIR)/%.o: $(SOURCE_DIR)/%.c
 <p>
 
 💻 Các file object tạo ra sẽ nằm chung thư mục vói file .c
-```cpp
+```Makefile
 # Tên file thực thi
 TARGET = main
 
